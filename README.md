@@ -1,7 +1,5 @@
 <h2 align="center">Welcome to my GitHub profile 💻</h2>
-<p>👋🏼 I'm Benjamin and I am an ambitious and aspiring student who mainly specialises in web development and backend in various languages.</p>
-<p>Feel free to take a look at my repositories and leave a star if you like what you see!</p>
-
+<p>👋🏼 I'm Benjamin and I am an ambitious and aspiring student who mainly specialises in web development and backend in various languages. Feel free to take a look at my repositories and leave a star if you like what you see!</p>
 
 
 ### Contact —
